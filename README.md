@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashutosh2706
-- 👀 I’m interested in ...<!--Every sort of programming-->
-- 🌱 I’m currently learning ...<!--Android Development with java , besides this my eyes are also on web development.
-- 💞️ I’m looking to collaborate on ... <!-- ?? -->
+- 👀 I’m interested in ...Every sort of programming
+- 🌱 I’m currently learning ...Android Development with java , besides this my eyes are also on web development.
+- 💞️ I’m looking to collaborate on ... <-- ?? -->
 - 📫 How to reach me ... email me... > imashutosh2706@gmail.com
 
 <!---
