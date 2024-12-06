@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello &bull; नमस्ते &bull; こんにちは 👋
+
+![](assets/brent.gif)
 
 <!--
 **ashutosh2706/ashutosh2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
