@@ -1,4 +1,4 @@
-## Hello &bull; नमस्ते &bull; こんにちは 👋
+## こんにちは世界 ！   私はアシュトシュです。 👋
 
 ![](assets/brent.gif)
 
